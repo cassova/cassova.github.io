@@ -1,7 +1,6 @@
+<img src="images/me.jpg" style="float: right;border-radius: 50%;" width="150">
 
 # Welcome
-
-<img src="images/me.jpg" style="float: right;border-radius: 50%;">
 
 Hi, my name is Nicholas Miller and welcome to my github.io page.
 
