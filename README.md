@@ -17,9 +17,7 @@ Hi, my name is Nicholas Miller and welcome to my github.io page.
 
 <table>
   <tr style="vertical-align:top"><td width="200">
-    <a href="https://mads-swaps.github.io/">
-      <img width="200" src="images/quicksight.png" alt="https://mads-swaps.github.io/">
-    </a>
+    <img width="200" src="images/quicksight.png" alt="AWS QuickSight - Simulation results of several strategies" id="screenshot" class="screenshots">
   </td>
   <td>
 A deep dive into several different strategies that can be used to predict buy and sell opportunities for the exchanging of cryptocurrencies. Utilizes Amazon Web Service serverless architecture patterns to automate and scale the machine learning models in a production environment. Supports a variety of classifiers and regressors from scikit-learn, ensemble of models, as well as neural networks.
@@ -38,9 +36,7 @@ A deep dive into several different strategies that can be used to predict buy an
 
 <table>
   <tr style="vertical-align:top"><td width="200">
-    <a href="https://cm-tle-pred.github.io/">
-      <img width="200" src="images/ms2_nt_pipeline.png" alt="https://cm-tle-pred.github.io/">
-    </a>
+    <img width="200" src="images/ms2_nt_pipeline.png" alt="ML Pipeline" id="screenshot" class="screenshots">
   </td>
   <td>
   Utilizing deep learning, and unsupervised learning on publicly available TLE data of Earth-orbiting objects to deliver superior orbit propagation results compared to the SGP4 standards.
@@ -59,12 +55,8 @@ A deep dive into several different strategies that can be used to predict buy an
 
 <table>
   <tr style="vertical-align:top"><td width="200">
-    <a href="https://mads-hatters.github.io/">
-      <img width="200" src="images/allsat.gif" alt="https://mads-hatters.github.io/">
-    </a>
-      <a href="https://mads-hatters.github.io/">
-        <img width="200" src="images/iridium-kosmos.gif" alt="https://mads-hatters.github.io/">
-      </a>
+    <img width="200" src="images/allsat.gif" alt="All known objects around earth colored by object type" id="screenshot" class="screenshots">
+    <img width="200" src="images/iridium-kosmos.gif" alt="Iridium and Kosmos Debris Clouds" id="screenshot" class="screenshots">
   </td>
   <td>
 Space, and more specifically low-earth orbit, is about to get a whole lot busier and this is making many concerned. At present, there are about 2,000 operational satellites in low-earth orbit and more than double that in defunct satellites. But last year in October, SpaceX requested permission to launch 30,000 Starlink satellites into low-earth orbit. This is in addition to the 12,000 that already received approval. These satellites have already begun interrupting astronomical observations, creating light pollution and increasing collision risks in an environment where a collision could trigger a chain reaction which not only endangers current and future satellites but also human lives.
@@ -84,9 +76,7 @@ Space, and more specifically low-earth orbit, is about to get a whole lot busier
 
 <table>
   <tr style="vertical-align:top"><td width="200">
-    <a href="https://pypi.org/project/satellite-czml/">
-      <img width="200" src="images/sc.png" alt="https://pypi.org/project/satellite-czml/">
-    </a>
+    <img width="200" src="images/sc.png" alt="Satellite CZML" id="screenshot" class="screenshots">
   </td>
   <td>
 A PyPi Package that creates a CZML string based on TLE (Two Line Element set) data for plotting satellites on the open source CesiumJS JavaScript library.  CesiumJS is a WebGL earth modeling engine which allows for time annimated displays of satellites using 3D and 2D interactive maps in the web browser. A CZML file/string is used by CesiumJS to show a time animation.
@@ -106,9 +96,7 @@ A PyPi Package that creates a CZML string based on TLE (Two Line Element set) da
 
 <table>
   <tr style="vertical-align:top"><td width="200">
-    <a href="https://pypi.org/project/fakermaker/">
-      <img width="200" src="images/fm.png" alt="https://pypi.org/project/fakermaker/">
-    </a>
+    <img width="200" src="images/fm.png" alt="Faker Maker/" id="screenshot" class="screenshots">
   </td>
   <td>
 A PyPi Package that creates pandas dataframes filled with fake data from the Faker package using an IPython magic function with custom domain specific language.
@@ -138,9 +126,3 @@ I created this game for my toddler who loves dinosaurs and puzzles but easily be
     </center>
   </td></tr>
 </table>
-
-<div id="imgModal" class="modal">
-  <span class="close">&times;</span>
-  <img class="modal-content" id="img01">
-  <div id="caption"></div>
-</div>
