@@ -1,6 +1,8 @@
 
 # Welcome
 
+<img src="images/me.jpg" style="float: right;border-radius: 50%;">
+
 Hi, my name is Nicholas Miller and welcome to my github.io page.
 
 - Github Profile: [https://github.com/cassova](https://github.com/cassova)
