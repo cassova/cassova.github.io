@@ -128,12 +128,7 @@ A PyPi Package that creates pandas dataframes filled with fake data from the Fak
 
 <table>
   <tr style="vertical-align:top"><td width="200">
-    <img src="images/dp.png" alt="DinoPuzzleApp" id="screenshot" style="width:100%;max-width:200px">
-    <div id="imgModal" class="modal">
-      <span class="close">&times;</span>
-      <img class="modal-content" id="img01">
-      <div id="caption"></div>
-    </div>
+    <img width="200" src="images/dp.png" alt="DinoPuzzleApp" id="screenshot" class="screenshots">
   </td>
   <td>
 I created this game for my toddler who loves dinosaurs and puzzles but easily became bored with many apps. My toddler's feedback went into creating this unique experience and I hope your child will enjoy this game as much as mine.  </td></tr>
@@ -143,3 +138,9 @@ I created this game for my toddler who loves dinosaurs and puzzles but easily be
     </center>
   </td></tr>
 </table>
+
+<div id="imgModal" class="modal">
+  <span class="close">&times;</span>
+  <img class="modal-content" id="img01">
+  <div id="caption"></div>
+</div>
