@@ -32,7 +32,7 @@ A deep dive into several different strategies that can be used to predict buy an
   </td></tr>
 </table>
 
-#### Improving Earth-orbiting object state prediction by using big data analysis and machine learning techniques on TLE data
+### Improving Earth-orbiting object state prediction by using big data analysis and machine learning techniques on TLE data
 
 `Python 3.8` `Jupyter Notebook` `Pandas` `NumPy` `Scikit-learn` `PyTorch` `GPU` `ResNet28` `ARIMA` `DBSCAN` `matplotlib` `multiprocessing` `multithreading` `Space-Track.org` `TLE` `anomaly detection` `deep neural network` `k-nearest neighbor` `ExtraTrees` `Linear Regression` `RandomForest` `GradientBoost` `MultiOutputRegression` `SVM` `sgp4` `Spark` `MRJob` `Hadoop`
 
@@ -53,7 +53,7 @@ A deep dive into several different strategies that can be used to predict buy an
   </td></tr>
 </table>
 
-#### Satellite congestion around Earth exploratory data analysis
+### Satellite congestion around Earth exploratory data analysis
 
 `Python 3.8` `Jupyter Notebook` `Pandas` `NumPy` `Heroku` `Plotly` `Dash` `Flask` `CesiumJS` `Space-Track.org` `TLE` `CSS` `HTML` `matplotlib` `gabbard diagram` `sgp4` `skyfield` `mplot3d`
 
@@ -78,7 +78,7 @@ Space, and more specifically low-earth orbit, is about to get a whole lot busier
   </td></tr>
 </table>
 
-#### Satellite CZML
+### Satellite CZML
 
 `Python` `CesiumJS` `czml` `sgp4`
 
@@ -100,7 +100,7 @@ A PyPi Package that creates a CZML string based on TLE (Two Line Element set) da
   </td></tr>
 </table>
 
-##### Faker Maker
+### Faker Maker
 
 `Python` `Pandas` `Faker`
 
@@ -118,6 +118,25 @@ A PyPi Package that creates pandas dataframes filled with fake data from the Fak
       <a href="https://pypi.org/project/fakermaker/">PyPi Package</a> |
       <a href="https://github.com/cassova/Faker-Maker">Github Repository</a> |
       <a href="https://github.com/cassova/Faker-Maker">Documentation</a>
+    </center>
+  </td></tr>
+</table>
+
+### Dinosaur Puzzle Adventure Kids Game
+
+`Unity 2019.4.4f1` `Android` `C#` `GCP` `Firebase` `Crashlytics` `Firestore` `Remote Config` `Voronoi diagram` `Even–odd rule`
+
+<table>
+  <tr style="vertical-align:top"><td width="200">
+    <a href="https://play.google.com/store/apps/details?id=com.KaitechyApps.DinoPuzzleApp">
+      <img width="200" src="images/dp.png" alt="DinoPuzzleApp">
+    </a>
+  </td>
+  <td>
+I created this game for my toddler who loves dinosaurs and puzzles but easily became bored with many apps. My toddler's feedback went into creating this unique experience and I hope your child will enjoy this game as much as mine.  </td></tr>
+  <tr><td colspan="2">
+    <center>
+      <a href="https://play.google.com/store/apps/details?id=com.KaitechyApps.DinoPuzzleApp">Google Play</a>
     </center>
   </td></tr>
 </table>

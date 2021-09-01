@@ -4,13 +4,16 @@
 @import "{{ site.theme }}";
 
 code {
-    color: #252525;
+    color: #e4e4e4;
     font-size: 11px;
     padding: 1px 7px;
     border-radius: 6px;
-    background-color: #ff8c00aa;
-    font-weight: bold;
+    background-color: #306396;
     display: inline-block;
     margin: 1px;
 }
 
+code:hover {
+    transform: scale(1.5);
+    background-color: #0e2e4e;
+}
