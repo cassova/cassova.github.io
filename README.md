@@ -4,8 +4,8 @@
 
 Hi, my name is Nicholas Miller and welcome to my github.io page.
 
-- Github Profile: [https://github.com/cassova](https://github.com/cassova)
-- LinkedIn Profile: [https://www.linkedin.com/in/nicholasmiller/](https://www.linkedin.com/in/nicholasmiller/)
+- Github Profile: <a href="https://github.com/cassova" onclick="captureOutboundLink('https://github.com/cassova'); return false;">https://github.com/cassova</a>
+- LinkedIn Profile: <a href="https://www.linkedin.com/in/nicholasmiller/" onclick="captureOutboundLink('https://www.linkedin.com/in/nicholasmiller/'); return false;">https://www.linkedin.com/in/nicholasmiller/</a>
 
 
 ---
@@ -25,8 +25,8 @@ A deep dive into several different strategies that can be used to predict buy an
   </td></tr>
   <tr><td colspan="2">
     <center>
-      <a href="https://mads-swaps.github.io/">White Paper</a> |
-      <a href="https://github.com/mads-swaps/swap-for-profit">Github Repository</a>
+      <a href="https://mads-swaps.github.io/" onclick="captureOutboundLink('https://mads-swaps.github.io/'); return false;">White Paper</a> |
+      <a href="https://github.com/mads-swaps/swap-for-profit" onclick="captureOutboundLink('https://github.com/mads-swaps/swap-for-profit'); return false;">Github Repository</a>
     </center>
   </td></tr>
 </table>
@@ -44,8 +44,8 @@ A deep dive into several different strategies that can be used to predict buy an
   </td></tr>
   <tr><td colspan="2">
     <center>
-      <a href="https://cm-tle-pred.github.io/">White Paper</a> |
-      <a href="https://github.com/cm-tle-pred/tle-prediction">Github Repository</a>
+      <a href="https://cm-tle-pred.github.io/" onclick="captureOutboundLink('https://cm-tle-pred.github.io/'); return false;">White Paper</a> |
+      <a href="https://github.com/cm-tle-pred/tle-prediction" onclick="captureOutboundLink('https://github.com/cm-tle-pred/tle-prediction'); return false;">Github Repository</a>
     </center>
   </td></tr>
 </table>
@@ -64,9 +64,9 @@ Space, and more specifically low-earth orbit, is about to get a whole lot busier
   </td></tr>
   <tr><td colspan="2">
     <center>
-      <a href="https://mads-hatters.github.io/">White Paper</a> |
-      <a href="https://github.com/mads-hatters/SIADS-591-Orbital-Congestion">Github Repository</a> |
-      <a href="https://oc-dash.herokuapp.com/">Heroku Dashboard</a>
+      <a href="https://mads-hatters.github.io/" onclick="captureOutboundLink('https://mads-hatters.github.io/'); return false;">White Paper</a> |
+      <a href="https://github.com/mads-hatters/SIADS-591-Orbital-Congestion" onclick="captureOutboundLink('https://github.com/mads-hatters/SIADS-591-Orbital-Congestion'); return false;">Github Repository</a> |
+      <a href="https://oc-dash.herokuapp.com/" onclick="captureOutboundLink('https://oc-dash.herokuapp.com/'); return false;">Heroku Dashboard</a>
     </center>
   </td></tr>
 </table>
@@ -84,9 +84,9 @@ A PyPi Package that creates a CZML string based on TLE (Two Line Element set) da
   </td></tr>
   <tr><td colspan="2">
     <center>
-      <a href="https://pypi.org/project/satellite-czml/">PyPi Package</a> |
-      <a href="https://github.com/cassova/satellite-czml">Github Repository</a> |
-      <a href="https://github.com/cassova/satellite-czml">Documentation</a>
+      <a href="https://pypi.org/project/satellite-czml/" onclick="captureOutboundLink('https://pypi.org/project/satellite-czml/'); return false;">PyPi Package</a> |
+      <a href="https://github.com/cassova/satellite-czml" onclick="captureOutboundLink('https://github.com/cassova/satellite-czml'); return false;">Github Repository</a> |
+      <a href="https://github.com/cassova/satellite-czml" onclick="captureOutboundLink('https://github.com/cassova/satellite-czml'); return false;">Documentation</a>
     </center>
   </td></tr>
 </table>
@@ -104,9 +104,9 @@ A PyPi Package that creates pandas dataframes filled with fake data from the Fak
   </td></tr>
   <tr><td colspan="2">
     <center>
-      <a href="https://pypi.org/project/fakermaker/">PyPi Package</a> |
-      <a href="https://github.com/cassova/Faker-Maker">Github Repository</a> |
-      <a href="https://github.com/cassova/Faker-Maker">Documentation</a>
+      <a href="https://pypi.org/project/fakermaker/" onclick="captureOutboundLink('https://pypi.org/project/fakermaker/'); return false;">PyPi Package</a> |
+      <a href="https://github.com/cassova/Faker-Maker" onclick="captureOutboundLink('https://github.com/cassova/Faker-Maker'); return false;">Github Repository</a> |
+      <a href="https://github.com/cassova/Faker-Maker" onclick="captureOutboundLink('https://github.com/cassova/Faker-Maker'); return false;">Documentation</a>
     </center>
   </td></tr>
 </table>
