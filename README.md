@@ -123,7 +123,7 @@ A PyPi Package that creates pandas dataframes filled with fake data from the Fak
 I created this game for my toddler who loves dinosaurs and puzzles but easily became bored with many apps. My toddler's feedback went into creating this unique experience and I hope your child will enjoy this game as much as mine.  </td></tr>
   <tr><td colspan="2">
     <center>
-      <a href="https://play.google.com/store/apps/details?id=com.KaitechyApps.DinoPuzzleApp" onclick="captureOutboundLink('https://play.google.com/store/apps/details?id=com.KaitechyApps.DinoPuzzleApp')">Google Play</a>
+      <a href="https://play.google.com/store/apps/details?id=com.KaitechyApps.DinoPuzzleApp" onclick="captureOutboundLink('https://play.google.com/store/apps/details?id=com.KaitechyApps.DinoPuzzleApp'); return false;">Google Play</a>
     </center>
   </td></tr>
 </table>
